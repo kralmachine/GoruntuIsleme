@@ -100,5 +100,8 @@ ENV/
 # mypy
 .mypy_cache/
 
-#Pycharm
+# Pycharm
 .idea/
+
+# ders
+ders/
